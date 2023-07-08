@@ -65,7 +65,7 @@ section p {
 hr {
     width: 150px;
     height: 2px;
-    background-color: #2196f3;
+    background-color: #2d6b22;
     border: 0;
     margin-bottom: 80px;
 }
@@ -92,7 +92,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    color: #fff;
+    color: #2d6b22;
     padding: 35px 100px 0;
 }
 
