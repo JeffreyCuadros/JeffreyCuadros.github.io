@@ -82,7 +82,6 @@ hr {
 	}
 }
 
-/*Header*/
 header {
     position: absolute;
     top: 0;
@@ -131,8 +130,6 @@ header nav li:last-child {
     }
 }
 
-/* /.Header */
-/* Section hero */
 .hero {
     position: relative;
     justify-content: center;
@@ -191,9 +188,6 @@ header nav li:last-child {
     }
 }
 
-/* /.Section hero*/
-
-/* our work section */
 .our-work{
     background-color: #fff;
 }
@@ -218,9 +212,7 @@ header nav li:last-child {
         flex-basis:100%;
     }
 }
-/* /. Our work */
 
-/*Section Features and Services*/
 .services {
     background-color: #f7f7f7;
 }
@@ -260,9 +252,6 @@ header nav li:last-child {
 	}
 
 }
-/* /.Section Features and Services */
-
-/*Section reviews*/
 
 .reviews {
     background-color: #fff;
@@ -292,8 +281,6 @@ header nav li:last-child {
     }
 }
 
-/* /.Section reviews */
-/*Section contact*/
 .contact{
 	background-color: #f7f7f7;
 }
@@ -330,9 +317,7 @@ header nav li:last-child {
 
 }
 
-/* /.Section contact */
 
-/*Footer*/
 footer{
 	display: flex;
 	flex-direction: column;
